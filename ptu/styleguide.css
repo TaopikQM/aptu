@@ -1,0 +1,23 @@
+:root {
+  --greysgrey-02: rgba(73, 80, 84, 1);
+  --doe-brand-coloursprimary-blue: rgba(0, 38, 100, 1);
+  --greysgrey-04: rgba(235, 235, 235, 1);
+  --greys-white: rgba(255, 255, 255, 1);
+  --greysgrey-03: rgba(205, 211, 214, 1);
+  --doe-brand-colourstertiary-blue: rgba(108, 172, 228, 1);
+  --doe-brand-coloursprimary-teal: rgba(203, 237, 253, 1);
+  --greysgrey-01: rgba(34, 39, 43, 1);
+  --greys-light-20: rgba(228, 228, 230, 1);
+  --regular-14-body-2-font-family: "PublicSans-Regular", Helvetica;
+  --regular-14-body-2-font-weight: 400;
+  --regular-14-body-2-font-size: 14px;
+  --regular-14-body-2-letter-spacing: 0px;
+  --regular-14-body-2-line-height: 17px;
+  --regular-14-body-2-font-style: normal;
+  --bold-14-subtitle-2-font-family: "PublicSans-Bold", Helvetica;
+  --bold-14-subtitle-2-font-weight: 700;
+  --bold-14-subtitle-2-font-size: 14px;
+  --bold-14-subtitle-2-letter-spacing: 0px;
+  --bold-14-subtitle-2-line-height: 17px;
+  --bold-14-subtitle-2-font-style: normal;
+}

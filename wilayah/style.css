@@ -1,0 +1,459 @@
+.wilayah {
+  background-color: #ffffff;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.wilayah .div {
+  background-color: #ffffff;
+  overflow: hidden;
+  width: 1440px;
+  height: 1487px;
+  position: relative;
+}
+
+.wilayah .diagram {
+  position: absolute;
+  width: 876px;
+  height: 777px;
+  top: 199px;
+  left: 50px;
+}
+
+.wilayah .image {
+  position: absolute;
+  width: 417px;
+  height: 251px;
+  top: 0;
+  left: 0;
+  object-fit: cover;
+}
+
+.wilayah .img {
+  position: absolute;
+  width: 417px;
+  height: 251px;
+  top: 263px;
+  left: 0;
+  object-fit: cover;
+}
+
+.wilayah .image-2 {
+  position: absolute;
+  width: 417px;
+  height: 251px;
+  top: 526px;
+  left: 0;
+  object-fit: cover;
+}
+
+.wilayah .image-3 {
+  position: absolute;
+  width: 416px;
+  height: 251px;
+  top: 263px;
+  left: 459px;
+  object-fit: cover;
+}
+
+.wilayah .image-4 {
+  position: absolute;
+  width: 417px;
+  height: 248px;
+  top: 526px;
+  left: 459px;
+  object-fit: cover;
+}
+
+.wilayah .image-5 {
+  position: absolute;
+  width: 417px;
+  height: 251px;
+  top: 0;
+  left: 458px;
+  object-fit: cover;
+}
+
+.wilayah .image-6 {
+  position: absolute;
+  width: 1439px;
+  height: 48px;
+  top: 1439px;
+  left: 1px;
+}
+
+.wilayah .navs {
+  position: absolute;
+  width: 1440px;
+  height: 84px;
+  top: 0;
+  left: -1px;
+  background-color: var(--white);
+}
+
+.wilayah .overlap {
+  position: absolute;
+  width: 146px;
+  height: 77px;
+  top: 4px;
+  left: 106px;
+}
+
+.wilayah .logo {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  gap: 2px;
+  position: absolute;
+  top: 26px;
+  left: 94px;
+}
+
+.wilayah .PTUJ {
+  position: relative;
+  width: fit-content;
+  margin-top: -1px;
+  font-family: "Inter", Helvetica;
+  font-weight: 600;
+  color: var(--black);
+  font-size: 20px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.wilayah .pngwing {
+  position: absolute;
+  width: 103px;
+  height: 77px;
+  top: 0;
+  left: 0;
+  object-fit: cover;
+}
+
+.wilayah .overlap-group {
+  position: absolute;
+  width: 329px;
+  height: 25px;
+  top: 32px;
+  left: 288px;
+}
+
+.wilayah .aktif {
+  position: absolute;
+  width: 69px;
+  height: 25px;
+  top: 0;
+  left: 72px;
+  background-color: #76c1f6;
+}
+
+.wilayah .navbar {
+  display: inline-flex;
+  align-items: center;
+  gap: 32px;
+  position: absolute;
+  top: 3px;
+  left: 0;
+}
+
+.wilayah .text-wrapper {
+  position: relative;
+  width: fit-content;
+  margin-top: -1px;
+  font-family: "Inter", Helvetica;
+  font-weight: 400;
+  color: var(--black);
+  font-size: 16px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.wilayah .frame {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  gap: 8px;
+  position: relative;
+  flex: 0 0 auto;
+}
+
+.wilayah .search-box {
+  display: flex;
+  width: 336px;
+  align-items: center;
+  gap: 12px;
+  padding: 12px 56px 12px 40px;
+  position: absolute;
+  top: 20px;
+  left: 904px;
+  background-color: #f6f6f6;
+}
+
+.wilayah .img-2 {
+  position: relative;
+  width: 20px;
+  height: 20px;
+}
+
+.wilayah .search-for-anything {
+  position: relative;
+  width: fit-content;
+  font-family: "Inter", Helvetica;
+  font-weight: 400;
+  color: var(--black);
+  font-size: 14px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.wilayah .span {
+  font-family: "Inter", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 14px;
+  letter-spacing: 0;
+}
+
+.wilayah .sidebar {
+  position: absolute;
+  width: 356px;
+  height: 726px;
+  top: 169px;
+  left: 1071px;
+}
+
+.wilayah .overlap-2 {
+  position: relative;
+  width: 344px;
+  height: 726px;
+  border-radius: 14px;
+}
+
+.wilayah .group {
+  position: absolute;
+  width: 344px;
+  height: 726px;
+  top: 0;
+  left: 0;
+  background-color: #819ee6;
+  border-radius: 14px;
+  box-shadow: 9px 9px 35px #00000017;
+}
+
+.wilayah .vector {
+  position: absolute;
+  width: 343px;
+  height: 1px;
+  top: 441px;
+  left: 0;
+}
+
+.wilayah .rectangle {
+  top: 186px;
+  left: 23px;
+  background-color: #76c0f6;
+  position: absolute;
+  width: 298px;
+  height: 70px;
+  border-radius: 9.01px;
+}
+
+.wilayah .text-wrapper-2 {
+  position: absolute;
+  width: 142px;
+  top: 209px;
+  left: 116px;
+  font-family: "Karla", Helvetica;
+  font-weight: 800;
+  color: #ffffff;
+  font-size: 23.2px;
+  letter-spacing: -0.46px;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.wilayah .rectangle-2 {
+  top: 105px;
+  left: 23px;
+  background-color: #76c1f6;
+  position: absolute;
+  width: 298px;
+  height: 70px;
+  border-radius: 9.01px;
+}
+
+.wilayah .text-wrapper-3 {
+  position: absolute;
+  width: 56px;
+  top: 128px;
+  left: 116px;
+  font-family: "Karla", Helvetica;
+  font-weight: 800;
+  color: #ffffff;
+  font-size: 23.2px;
+  letter-spacing: -0.46px;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.wilayah .rectangle-3 {
+  top: 23px;
+  left: 23px;
+  background-color: #76c1f6;
+  position: absolute;
+  width: 298px;
+  height: 70px;
+  border-radius: 9.01px;
+}
+
+.wilayah .text-wrapper-4 {
+  position: absolute;
+  width: 102px;
+  top: 46px;
+  left: 116px;
+  font-family: "Karla", Helvetica;
+  font-weight: 800;
+  color: #ffffff;
+  font-size: 23.2px;
+  letter-spacing: -0.46px;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.wilayah .rectangle-4 {
+  top: 267px;
+  left: 23px;
+  background-color: #0073c4;
+  position: absolute;
+  width: 298px;
+  height: 70px;
+  border-radius: 9.01px;
+}
+
+.wilayah .text-wrapper-5 {
+  position: absolute;
+  width: 142px;
+  top: 291px;
+  left: 116px;
+  font-family: "Karla", Helvetica;
+  font-weight: 800;
+  color: #ffffff;
+  font-size: 23.2px;
+  letter-spacing: -0.46px;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.wilayah .rectangle-5 {
+  top: 349px;
+  left: 23px;
+  background-color: #76c1f6;
+  position: absolute;
+  width: 298px;
+  height: 70px;
+  border-radius: 9.01px;
+}
+
+.wilayah .text-wrapper-6 {
+  position: absolute;
+  width: 79px;
+  top: 372px;
+  left: 116px;
+  font-family: "Karla", Helvetica;
+  font-weight: 800;
+  color: #ffffff;
+  font-size: 23.2px;
+  letter-spacing: -0.46px;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.wilayah .user-fill {
+  top: 370px;
+  left: 56px;
+  position: absolute;
+  width: 23px;
+  height: 23px;
+}
+
+.wilayah .rectangle-6 {
+  top: 633px;
+  left: 27px;
+  background-color: #ffffff;
+  position: absolute;
+  width: 298px;
+  height: 70px;
+  border-radius: 9.01px;
+}
+
+.wilayah .text-wrapper-7 {
+  position: absolute;
+  width: 75px;
+  top: 657px;
+  left: 120px;
+  font-family: "Karla", Helvetica;
+  font-weight: 400;
+  color: #6d6c6c;
+  font-size: 23.2px;
+  letter-spacing: -0.46px;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.wilayah .user-fill-2 {
+  top: 657px;
+  left: 62px;
+  position: absolute;
+  width: 23px;
+  height: 23px;
+}
+
+.wilayah .vector-2 {
+  position: absolute;
+  width: 22px;
+  height: 19px;
+  top: 296px;
+  left: 56px;
+}
+
+.wilayah .vector-3 {
+  position: absolute;
+  width: 24px;
+  height: 18px;
+  top: 128px;
+  left: 55px;
+}
+
+.wilayah .vector-4 {
+  position: absolute;
+  width: 24px;
+  height: 18px;
+  top: 207px;
+  left: 56px;
+}
+
+.wilayah .vector-5 {
+  position: absolute;
+  width: 24px;
+  height: 18px;
+  top: 46px;
+  left: 55px;
+}
+
+.wilayah .p {
+  position: absolute;
+  width: 456px;
+  top: 156px;
+  left: 64px;
+  font-family: "Montserrat", Helvetica;
+  font-weight: 700;
+  color: #000000;
+  font-size: 22px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}

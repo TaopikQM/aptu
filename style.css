@@ -1,0 +1,368 @@
+.dashboard {
+  background-color: #ffffff;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.dashboard .div {
+  background-color: #ffffff;
+  width: 1440px;
+  height: 1510px;
+  position: relative;
+}
+
+.dashboard .statiska {
+  position: absolute;
+  width: 676px;
+  height: 406px;
+  top: 173px;
+  left: 739px;
+  background-image: url(./img/image-50.png);
+  background-size: cover;
+  background-position: 50% 50%;
+}
+
+.dashboard .pts {
+  position: absolute;
+  width: 142px;
+  height: 305px;
+  top: 70px;
+  left: 452px;
+}
+
+.dashboard .ptn {
+  position: absolute;
+  width: 154px;
+  height: 192px;
+  top: 183px;
+  left: 148px;
+}
+
+.dashboard .rekomendasi {
+  position: absolute;
+  width: 660px;
+  height: 465px;
+  top: 114px;
+  left: 44px;
+}
+
+.dashboard .overlap-group {
+  position: absolute;
+  width: 658px;
+  height: 406px;
+  top: 59px;
+  left: 0;
+  background-color: #d9d9d9;
+}
+
+.dashboard .element-rekomen {
+  position: relative;
+  width: 468px;
+  height: 345px;
+  top: 6px;
+  left: 1px;
+}
+
+.dashboard .text-wrapper {
+  position: absolute;
+  top: 22px;
+  left: 77px;
+  font-family: "Inter", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 16px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.dashboard .universitas-sains {
+  top: 297px;
+  position: absolute;
+  left: 77px;
+  font-family: "Inter", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 16px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.dashboard .text-wrapper-2 {
+  position: absolute;
+  top: 226px;
+  left: 77px;
+  font-family: "Inter", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 16px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.dashboard .text-wrapper-3 {
+  top: 158px;
+  position: absolute;
+  left: 77px;
+  font-family: "Inter", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 16px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.dashboard .text-wrapper-4 {
+  position: absolute;
+  top: 97px;
+  left: 77px;
+  font-family: "Inter", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 16px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.dashboard .image {
+  position: absolute;
+  width: 57px;
+  height: 64px;
+  top: 0;
+  left: 6px;
+  object-fit: cover;
+}
+
+.dashboard .img {
+  position: absolute;
+  width: 49px;
+  height: 51px;
+  top: 79px;
+  left: 10px;
+  object-fit: cover;
+}
+
+.dashboard .image-2 {
+  position: absolute;
+  width: 59px;
+  height: 60px;
+  top: 138px;
+  left: 6px;
+  object-fit: cover;
+}
+
+.dashboard .image-3 {
+  position: absolute;
+  width: 53px;
+  height: 68px;
+  top: 203px;
+  left: 8px;
+  object-fit: cover;
+}
+
+.dashboard .image-4 {
+  position: absolute;
+  width: 70px;
+  height: 66px;
+  top: 279px;
+  left: 0;
+  object-fit: cover;
+}
+
+.dashboard .text-wrapper-5 {
+  position: absolute;
+  top: 0;
+  left: 2px;
+  font-family: "Inter", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 40px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.dashboard .peata-wil {
+  position: absolute;
+  width: 1208px;
+  height: 728px;
+  top: 683px;
+  left: 41px;
+}
+
+.dashboard .overlap {
+  position: relative;
+  width: 1206px;
+  height: 728px;
+  background-color: #d9d9d9;
+}
+
+.dashboard .image-5 {
+  position: absolute;
+  width: 1161px;
+  height: 644px;
+  top: 68px;
+  left: 23px;
+  object-fit: cover;
+}
+
+.dashboard .text-wrapper-6 {
+  position: absolute;
+  top: 0;
+  left: 409px;
+  font-family: "Inter", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 40px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.dashboard .image-6 {
+  position: absolute;
+  width: 1440px;
+  height: 48px;
+  top: 1441px;
+  left: 0;
+}
+
+.dashboard .navs {
+  position: absolute;
+  width: 1440px;
+  height: 95px;
+  top: 0;
+  left: 0;
+  background-color: var(--white);
+}
+
+.dashboard .overlap-2 {
+  position: absolute;
+  width: 146px;
+  height: 77px;
+  top: 4px;
+  left: 106px;
+}
+
+.dashboard .logo {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  gap: 2px;
+  position: absolute;
+  top: 26px;
+  left: 94px;
+}
+
+.dashboard .PTUJ {
+  font-weight: 600;
+  font-size: 20px;
+  position: relative;
+  width: fit-content;
+  margin-top: -1px;
+  font-family: "Inter", Helvetica;
+  color: var(--black);
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.dashboard .pngwing {
+  position: absolute;
+  width: 103px;
+  height: 77px;
+  top: 0;
+  left: 0;
+  object-fit: cover;
+}
+
+.dashboard .overlap-3 {
+  position: absolute;
+  width: 332px;
+  height: 25px;
+  top: 32px;
+  left: 285px;
+}
+
+.dashboard .aktif {
+  position: absolute;
+  width: 51px;
+  height: 25px;
+  top: 0;
+  left: 0;
+  background-color: #76c1f6;
+}
+
+.dashboard .navbar {
+  display: inline-flex;
+  align-items: center;
+  gap: 32px;
+  position: absolute;
+  top: 3px;
+  left: 3px;
+}
+
+.dashboard .text-wrapper-7 {
+  position: relative;
+  width: fit-content;
+  margin-top: -1px;
+  font-family: "Inter", Helvetica;
+  font-weight: 400;
+  color: var(--black);
+  font-size: 16px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.dashboard .frame {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  gap: 8px;
+  position: relative;
+  flex: 0 0 auto;
+}
+
+.dashboard .search-box {
+  display: flex;
+  width: 336px;
+  align-items: center;
+  gap: 12px;
+  padding: 12px 56px 12px 40px;
+  position: absolute;
+  top: 20px;
+  left: 904px;
+  background-color: #f6f6f6;
+}
+
+.dashboard .img-2 {
+  position: relative;
+  width: 20px;
+  height: 20px;
+}
+
+.dashboard .search-for-anything {
+  position: relative;
+  width: fit-content;
+  font-family: "Inter", Helvetica;
+  font-weight: 400;
+  color: var(--black);
+  font-size: 14px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.dashboard .span {
+  font-family: "Inter", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 14px;
+  letter-spacing: 0;
+}
