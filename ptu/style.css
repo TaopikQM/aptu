@@ -71,6 +71,164 @@
   left: 8px;
 }
 
+.rekomendasi .navs {
+  position: absolute;
+  width: 1440px;
+  height: 84px;
+  top: 0;
+  left: -1px;
+  background-color: var(--white);
+}
+
+.rekomendasi .overlap-9 {
+  position: absolute;
+  width: 146px;
+  height: 77px;
+  top: 4px;
+  left: 106px;
+}
+
+.rekomendasi .logo {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  gap: 2px;
+  position: absolute;
+  top: 26px;
+  left: 94px;
+}
+
+.rekomendasi .PTUJ {
+  position: relative;
+  width: fit-content;
+  margin-top: -1px;
+  font-family: "Inter-SemiBold", Helvetica;
+  font-weight: 600;
+  color: var(--black);
+  font-size: 20px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.rekomendasi .pngwing {
+  position: absolute;
+  width: 103px;
+  height: 77px;
+  top: 0;
+  left: 0;
+  object-fit: cover;
+}
+
+.rekomendasi .overlap-10 {
+  position: absolute;
+  width: 336px;
+  height: 25px;
+  top: 32px;
+  left: 288px;
+}
+
+.rekomendasi .aktif {
+  position: absolute;
+  width: 47px;
+  height: 25px;
+  top: 0;
+  left: 289px;
+  background-color: #76c1f6;
+}
+
+.rekomendasi .navbar {
+  display: inline-flex;
+  align-items: center;
+  gap: 32px;
+  position: absolute;
+  top: 3px;
+  left: 0;
+}
+
+.rekomendasi .text-wrapper-24 {
+  position: relative;
+  width: fit-content;
+  margin-top: -1px;
+  font-family: "Inter-Regular", Helvetica;
+  font-weight: 400;
+  color: var(--black);
+  font-size: 16px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.rekomendasi .frame {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  gap: 8px;
+  position: relative;
+  flex: 0 0 auto;
+}
+
+.rekomendasi .search-box {
+  display: flex;
+  width: 336px;
+  align-items: center;
+  gap: 12px;
+  padding: 12px 56px 12px 40px;
+  position: absolute;
+  top: 20px;
+  left: 904px;
+  background-color: #f6f6f6;
+}
+
+.rekomendasi .img-2 {
+  position: relative;
+  width: 20px;
+  height: 20px;
+}
+
+.rekomendasi .search-for-anything {
+  position: relative;
+  width: fit-content;
+  font-family: "Inter-Regular", Helvetica;
+  font-weight: 400;
+  color: var(--black);
+  font-size: 14px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.rekomendasi .span {
+  font-family: "Inter-Regular", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 14px;
+  letter-spacing: 0;
+}
+.rekomendasi .img-2 {
+  position: relative;
+  width: 20px;
+  height: 20px;
+}
+
+.rekomendasi .search-for-anything {
+  position: relative;
+  width: fit-content;
+  font-family: "Inter-Regular", Helvetica;
+  font-weight: 400;
+  color: var(--black);
+  font-size: 14px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.rekomendasi .span {
+  font-family: "Inter-Regular", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 14px;
+  letter-spacing: 0;
+}
+
 .rekomendasi .overlap-group {
   position: relative;
   width: 989px;
@@ -121,7 +279,7 @@
   left: 8px;
 }
 
-.rekomendasi .overlap-2 {
+.rekomendasi .overlap-9 {
   position: relative;
   width: 989px;
   height: 90px;
